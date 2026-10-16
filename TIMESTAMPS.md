@@ -36,6 +36,15 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-16 — Correction 2's Lean, re-checked on the pinned toolchain
+
+Correction 2's appendix says its Lean was "checked on 2026-10-16 with Lean v4.34.1". At its push that was not true: the
+checks ran on v4.35.0, elan's default toolchain outside the formal-abhidhamma repository. Re-checked the same day on
+v4.34.1 (`lean +leanprover/lean4:v4.34.1`): `ZZ.lean` and `QZ.lean`, exactly as printed, check with no `sorryAx`, and
+both breaks fail on their own lines (`break_even`: `decide` proves it false; the moved density witness: the proof of
+`qz_blocks_dense` fails). The stamped correction is not edited. The Lean check behind amendment 2 §4's H₁ example ran
+on v4.34.1 too.
+
 ### 2026-10-16 — Protocol 1, amendment 2
 
 `protocol/2026-10-16-attempt-1-amendment-2.md` stamped by hand at its push. Protocol 1, its correction 1, amendment 1
