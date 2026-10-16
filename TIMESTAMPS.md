@@ -36,6 +36,11 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — Protocol 1
+
+`protocol/2026-10-15-attempt-1.md` stamped by hand at its push (`protocol/2026-10-15-attempt-1.md.ots`); the weekly
+RFC 3161 manifest covers it from its next run.
+
 ### 2026-10-15 — repository created
 
 The timestamping is in place before the first document.

@@ -31,4 +31,6 @@ The text is dedicated to the public domain under [CC0 1.0](./LICENSE). The forew
 
 ## Status
 
-Nothing has run yet. The protocol will be the first file.
+[Protocol 1](./protocol/2026-10-15-attempt-1.md) is committed (2026-10-15): the rules of the first attempt, over the
+127 live axioms. Next: the axioms are written in one Lean package, and a second protocol freezes that statement before
+any model is searched. Nothing has been searched yet.
