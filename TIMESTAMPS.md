@@ -36,6 +36,10 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — Protocol 1, correction 1
+
+`protocol/2026-10-15-attempt-1-correction-1.md` stamped by hand at its push. Protocol 1 itself is not edited.
+
 ### 2026-10-15 — Protocol 1
 
 `protocol/2026-10-15-attempt-1.md` stamped by hand at its push (`protocol/2026-10-15-attempt-1.md.ots`); the weekly
