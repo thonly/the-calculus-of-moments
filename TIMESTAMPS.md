@@ -36,6 +36,11 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-16 — Protocol 1, amendment 2
+
+`protocol/2026-10-16-attempt-1-amendment-2.md` stamped by hand at its push. Protocol 1, its correction 1, amendment 1
+and amendment 1's corrections are not edited.
+
 ### 2026-10-16 — Amendment 1, correction 2
 
 `protocol/2026-10-16-attempt-1-amendment-1-correction-2.md` stamped by hand at its push. Amendment 1 and its
