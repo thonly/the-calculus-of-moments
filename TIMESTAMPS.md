@@ -36,6 +36,11 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-18 — Protocol 1, correction 2
+
+`protocol/2026-10-18-attempt-1-correction-2.md` stamped by hand at its push. Protocol 1, its correction 1, amendment 1
+with its corrections, and amendment 2 are not edited.
+
 ### 2026-10-16 — Correction 2's Lean, re-checked on the pinned toolchain
 
 Correction 2's appendix says its Lean was "checked on 2026-10-16 with Lean v4.34.1". At its push that was not true: the
