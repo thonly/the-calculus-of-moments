@@ -1,0 +1,32 @@
+# repository manifest — 2026-10-18 (UTC)
+# sha256  path
+a40c8ee4aadb701f0ea1e2ff81273700e4378e06a2a2956d0021166680fee4f2  .github/workflows/ots-upgrade.yml
+23b62c18b0f2bd9e5e7cef963325c38402b8640609ebf599208571ee57ec135d  .github/workflows/tsa-stamp.yml
+b59d4caeafb575e3b5833183ab04bf2b47dbdcb3587cfc3be25496d5f029a677  .gitignore
+f99ae25b6325d3a2fcebe74ee92296e2058fe84e97f228a5b81b5e8a1821f04f  LICENSE
+620120675fa3823534d3fafc644ca61e8eb9c9ed346357b5908aa41d167cd429  README.md
+60a3377cbdff90148403fc446c50eaf109ec7d8f27c70a503d9053f837ceabd8  TIMESTAMPS.md
+f80e61be3f6a4e080ba71ca86866c4bda86404af231665a30077c62bef19103e  ots-upgrade.sh
+7db3a159c7a37753f7a81d8ad990aba2ec594f571ebe5d920c7035b0af4640eb  protocol/2026-10-15-attempt-1-amendment-1-correction-1.md
+4667ab723367d0138f711c1fedc525e7772854c5de0c323ad01016870ce9573b  protocol/2026-10-15-attempt-1-amendment-1-correction-1.md.ots
+3ddc56aa5714906d10d422547f55b3d7b2af74830797e0ded28ae6e7b75dba6c  protocol/2026-10-15-attempt-1-amendment-1.md
+9ae1d110b3d4e5d5093fb7460d9d8e6967597b474357daaacdffbf22c6da1c50  protocol/2026-10-15-attempt-1-amendment-1.md.ots
+4aa784d5a9bec8bbbe2788d93b93525465818871c3dda1f15c937d412408536e  protocol/2026-10-15-attempt-1-correction-1.md
+80d0d4b5beb73d9af95700169c98018fb419d805b3416b1f73755a864a86e2df  protocol/2026-10-15-attempt-1-correction-1.md.ots
+4133c135906e28868b050387d751b5559def24f68e0a6d08dcdfab2bca027b20  protocol/2026-10-15-attempt-1.md
+5a3b46deb7035436cbeded60cee439c5a9629796681404e84fe19bbd6f7f48f9  protocol/2026-10-15-attempt-1.md.ots
+42eba31476e9f569eaeb390f48c8510ee45dbfcaf8c275a1eae60b8dd9e46b6f  protocol/2026-10-16-attempt-1-amendment-1-correction-2.md
+784cd7b22c1a5dba51aca4dba7dd27e4190dea9d4d80c774d4e200d6060803b6  protocol/2026-10-16-attempt-1-amendment-1-correction-2.md.ots
+ae6f404d3718983ad0e74e6c41ae701f57d8bc590f25ca59fd574faaf233412a  protocol/2026-10-16-attempt-1-amendment-2.md
+4f0758c5e1b5ff5292ee1c3eeac8a65371cf07eacac84cd86017d429fb548dde  protocol/2026-10-16-attempt-1-amendment-2.md.ots
+e8946b76bf5efa2123974160bb8b51ba25d0b313fe3eea536e5028502fa3f159  timestamps/README.md
+04846f73d9d0421c60076fd02bad7f0a81a3f11a028d653b0de53290e41dcead  timestamps/ca/accv-es.pem
+b61518c2cd07d72cb7591a7537ac7f36901b8d343db9889e19f6977f5729e5d9  timestamps/ca/aped-gr.pem
+2151b61137ffa86bf664691ba67e7da0b19f98c758e3d228d5d8ebf27e044438  timestamps/ca/freetsa-de.pem
+5d8556b42271894dec70a69161f8018aaf8f57d9bbfffbae73bcee4b1ddfc714  timestamps/manifests/2026-10-15.sha256
+fd8b6c2fbe6215d22859037990baa1256ca828192408f655605eb96cc6d6b496  timestamps/manifests/2026-10-15.sha256.accv-es.tsr
+67c1e89405cfbca8d9f4431773a4c86993471e88d11f2a93c0d6e9e3c11b295a  timestamps/manifests/2026-10-15.sha256.aped-gr.tsr
+49c9a0b2390058fd0c9ad0a8a7e8ab3d8ecb9c3f23c9c502935569c098a641ca  timestamps/manifests/2026-10-15.sha256.freetsa-de.tsr
+1eaa5c7a5cbc12c7b70f1d7f36ef2d0ef5d98b3e302b70dc2fd1768991887db7  timestamps/manifests/2026-10-15.sha256.ots
+537515d2b09e4ed1af825326f81566bad7ae0980071fc75f859e1726c1a1ffe2  tsa-stamp.sh
+4ed6902a0355748de65af9c08ecf0ac23c06ad109b7f382611569f6ea1594317  tsa-verify.sh
